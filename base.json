@@ -1,0 +1,1998 @@
+[
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "nota": 0
+  },
+  {
+    "autor": "Sofia Petruk",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "nota": 0
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "nota": 0
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "nota": 0
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "nota": 0
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "nota": 0
+  },
+  {
+    "autor": "Sofia Petruk",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "nota": 0
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "nota": 0
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP1 - Entrega",
+    "descricao": "entrega checkpoint",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": "Vários atributos estão sem comentários ou sem conteúdo significativo. A entidade de endereço do paciente carece de atributos, enquanto os da entidade de contatos estão incorretos. Também faltam regras de negócio para pacientes com vários telefones e e-mails."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP2 - Entrega",
+    "descricao": "segundo checkpoint",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP3 - Entrega",
+    "descricao": "terceiro checkpoint",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 6,
+    "feedback": "Vários atributos estão sem comentários ou sem conteúdo significativo. A entidade de endereço do paciente carece de atributos, enquanto os da entidade de contatos estão incorretos. Também faltam regras de negócio para pacientes com vários telefones e e-mails."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint1 - Entrega",
+    "descricao": "primeira sprint",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 60,
+    "feedback": "Estão usando atributos CHAR onde deveria ser VARCHAR. O relacionamento entre MECÂNICO e AVALIAÇÃO não precisa ser identificado."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint2 - Entrega",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 100,
+    "feedback": "As entidades LOGIN, USUARIO e CADASTRO são redundantes. A entidade OCORRENCIA precisa de mais atributos, e não há padrão de nomenclatura."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Global Solution - 1º Semestre",
+    "descricao": "Nota: . Feedback: NULL.",
+    "materia": "Building Relational Database",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 65
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP4 - Entrega",
+    "descricao": "Feedback: NULL.",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 8.6
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP5 - Entrega",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9.5
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint3 - Entrega",
+    "descricao": "DDL 45 Nomeclatura 30 Relacional 20 Erro ao executar cria.",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 95
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP1 - Entrega",
+    "descricao": "entrega checkpoint",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": "Vários atributos estão sem comentários ou sem conteúdo significativo. A entidade de endereço do paciente carece de atributos, enquanto os da entidade de contatos estão incorretos. Também faltam regras de negócio para pacientes com vários telefones e e-mails."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP2 - Entrega",
+    "descricao": "segundo checkpoint",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP3 - Entrega",
+    "descricao": "terceiro checkpoint",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 6,
+    "feedback": "Vários atributos estão sem comentários ou sem conteúdo significativo. A entidade de endereço do paciente carece de atributos, enquanto os da entidade de contatos estão incorretos. Também faltam regras de negócio para pacientes com vários telefones e e-mails."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint1 - Entrega",
+    "descricao": "primeira sprint",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 60,
+    "feedback": "Estão usando atributos CHAR onde deveria ser VARCHAR. O relacionamento entre MECÂNICO e AVALIAÇÃO não precisa ser identificado."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint2 - Entrega",
+    "descricao": "",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 100,
+    "feedback": "As entidades LOGIN, USUARIO e CADASTRO são redundantes. A entidade OCORRENCIA precisa de mais atributos, e não há padrão de nomenclatura."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Global Solution - 1º Semestre",
+    "descricao": "Nota: . Feedback: NULL.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 65
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP4 - Entrega",
+    "descricao": "Feedback: NULL.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 8.6
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP5 - Entrega",
+    "descricao": "entrega do cp",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9.5
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint3 - Entrega",
+    "descricao": "terceira sprint",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 95
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP1 - Entrega",
+    "descricao": "entrega checkpoint",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": "Implementação correta dos métodos. Método calularTotalDeDespesas não calcula corretamente o valor total da academia (deveria ser: valorMensalidadeDaAcademia * numeroDeMoradores) e também tem erro de português em seu nome. (-1,0)"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP2 - Entrega",
+    "descricao": "segundo checkpoint",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP3 - Entrega",
+    "descricao": "não realizado",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 0
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint1 - Entrega",
+    "descricao": "primeira sprint",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 85,
+    "feedback": "O diagrama de classes deve estar incluído na documentação. Todas as classes, mesmo sem métodos, devem ter seu espaço representado no modelo UML. \"Cadastro\" não é uma classe válida. Alguns atributos não seguem a convenção de nomenclatura e estão sem tipo definido. O uso do tipo \"string\" está incorreto, pois deveria ser \"String\" com letra maiúscula. Além disso, Oficina e InformacoesOficina deveriam ser uma única classe, pois não há justificativa para a separação."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint2 - Entrega",
+    "descricao": "2° sprint de java",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 93,
+    "feedback": "No Diagrama de Classes, atributos do tipo datas e horas usar tipo coerentes (não String ou int). Rever as classes para melhor adequar ao escopo apresentado: PassoReparo e ServicoExtra. (-2 ptos) Projeto entregue com erro (na classe OrcamentoTotal). (-5 ptos) Na classe de teste, objeto da classe Scanner não é fechado. No diagrama de classes, a herança está incorreta, pois a classe Contato não deveria herdar atributos de Ocorrencia. O método usuarioInfo na classe Usuario retorna apenas um tipo. Os nomes dos métodos no projeto não correspondem ao diagrama UML, e a herança é mal implementada, com repetição de atributos na classe filho. Além disso, a classe de teste não segue a convenção de nomenclatura, e a sobrescrita de métodos é inválida, pois não realiza ações diferentes."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Global Solution - 1º Semestre",
+    "descricao": "entrega global solution.",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 73
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP4 - Entrega",
+    "descricao": "Não realizado.",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 0
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP5 - Entrega",
+    "descricao": "cp de java",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint3 - Entrega",
+    "descricao": "DDL 45 Nomeclatura 30 Relacional 20 Erro ao executar cria.",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 95
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP1 - Entrega",
+    "descricao": "entrega checkpoint",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": "estrutura e nomenclatura semantica nota=75"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP2 - Entrega",
+    "descricao": "segundo checkpoint",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 10,
+    "feedback": "A estrutura está legal, mas faltou atenção em alguns momentos, por exemplo quando vamos examinar seu chatBot, não é possível voltar, tem que fazer isso pelo Navegador."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP3 - Entrega",
+    "descricao": "terceiro checkpoint",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": "- Contexto: Foi utilizado texto lorem em um projeto real. Qual função da página chat? Esta página quando acessada é impossível retornar para a página inicial. Ela abre em uma nova aba sendo um link interno ao sistema, sem necessidade e não deixa opções de retorno. (-10)"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint1 - Entrega",
+    "descricao": "primeira sprint",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 60,
+    "materia": "Front-End Design Engineering"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint2 - Entrega",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 55
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Global Solution - 1º Semestre",
+    "descricao": "entrega de Global Solution",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 60
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP4 - Entrega",
+    "descricao": "Feedback: N/A.",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 3.5
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP5 - Entrega",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 8.5,
+    "feedback": "Estrutura e organização do projeto (20 pontos): 220 Implementação de rotas e rotas dinâmicas (30 pontos): 20 Página de erro personalizada (10 pontos): 10 Endpoints do projeto (30 pontos): 25 Colaboração e versionamento (10 pontos): 10"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint3 - Entrega",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 80,
+    "feedback": "Existem erros semanticos não observados no projeto."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP1 - Entrega",
+    "descricao": "entrega checkpoint",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.5,
+    "feedback": "Feedback ao vivo"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP2 - Entrega",
+    "descricao": "segundo checkpoint",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.5
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP3 - Entrega",
+    "descricao": "terceiro checkpoint",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 0
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint1 - Entrega",
+    "descricao": "primeira sprint",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 93,
+    "materia": "Software Engineering and Business Model"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint2 - Entrega",
+    "descricao": "entrega segunda sprint",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 97,
+    "feedback": "Backlog excepcional! Descrição excelente. Pitch ótimo. Matriz CSD legal. Diagrama bem legal algumas questões mas no geral muito bom."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Global Solution - 1º Semestre",
+    "descricao": "entrega Global solution",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 95
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP4 - Entrega",
+    "descricao": "quarto checkpoint",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9,
+    "feedback": "Não traz sobre a tela de erro do Ifood que não informa sobre qual é o erro. As primeiras heurísticas têm mais coisas que poderiam ter sido detalhadas."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP5 - Entrega",
+    "descricao": "quinto checkpoint",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 8,
+    "feedback": "No seu diagrama de atividades faltaram as formas de entrega."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint3 - Entrega",
+    "descricao": "",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 100,
+    "feedback": "Os diagramas de vocês estão OK. O protótipo está legal! Backlog ok. Parabéns 10/10."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP1 - Entrega",
+    "descricao": "entrega checkpoint",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": "Exe1 (4,5) - Faltou somar as comissões com o salário fixo. Exe2 (4,5) - Fluxograma - o teste composto deve ser realizado com a variável em todas as partes | não possui inicio e fim - cálculo não realizado."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "CP2 - Entrega",
+    "descricao": "segundo checkpoint",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": "Exe1(4,0) - não há necessidade de implementar uma estrutura de repetição para executar uma única vez | condição de parada não atende ao solicitado | lógica ok. Exe2(3,0) poderiam ter utilizado o mesmo laço para captar as informações, pois possuem a mesma lógica | Programa todo sequencial, sem aplicação de condições e repetição."
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint1 - Entrega",
+    "descricao": "primeira sprint",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 95,
+    "feedback": "Aplicações dos conceitos vistos em aula - Muito bom! de acordo com o solicitado | validação ok.",
+    "materia": "Computational Thinking Using Python"
+  },
+  {
+    "autor": "Júlia Monteiro",
+    "titulo": "Sprint2 - Entrega",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 40,
+    "feedback": "Pouca evolução da Sprint 1. Não foram encontradas explicações sobre os pontos de melhorias e/ou fluxograma."
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Sprint2 - Entrega",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 40,
+    "feedback": "Pouca evolução da Sprint 1. Não foram encontradas explicações sobre os pontos de melhorias e/ou fluxograma."
+  },
+  {
+    "titulo": "cp5",
+    "autor": "Júlia Angelozi",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "descricao": "checkpoint machine learning",
+    "nota": 9,
+    "feedback": "nenhum"
+  },
+  {
+    "titulo": "cp - pokemon",
+    "autor": "Júlia Angelozi",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "descricao": "ah vai saber né",
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "titulo": "cp morre",
+    "autor": "Júlia Angelozi",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "descricao": "alguma coisa",
+    "nota": 5,
+    "feedback": "bom"
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 2",
+    "descricao": "",
+    "materia": "Artificial Intelligence & Chatbot",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Entrega Checkpoint 2",
+    "descricao": "",
+    "materia": "Artificial Intelligence & Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 1",
+    "descricao": "",
+    "materia": "Artificial Intelligence & Chatbot",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint AI - Chatbot IBM",
+    "descricao": "",
+    "materia": "Artificial Intelligence & Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "EDA e Machine Learning",
+    "descricao": "",
+    "materia": "Artificial Intelligence & Chatbot",
+    "tipo": "Global Solution",
+    "semestre": 2,
+    "nota": 9.3,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 1",
+    "descricao": "",
+    "materia": "Artificial Intelligence & Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 3",
+    "descricao": "",
+    "materia": "Artificial Intelligence & Chatbot",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 2",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "2° Checkpoint - Primeiro Semestre - Database",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 6,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 1",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 6,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "1° Checkpoint - Primeiro Semestre - Database",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 8.7,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "20° Checkpoint DDL e DML",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 3",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "10° Checkpoint DDL",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 7,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 2",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 3",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 1",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 4.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 1",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.8,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 5",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 3",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 8.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 4",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 2",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 3",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 8.4,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 1",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 2",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 1",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7.7,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 5",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 3",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 7.8,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Checkpoint 4",
+    "descricao": "",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 7.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 2",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "CP2 - Implementação de Protótipo",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 1",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 4.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "CP1 - Cursos FIAP",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "CP2 - Worlds in Collision",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 3",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 8,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "CP1 - SPA / Livraria",
+    "descricao": "",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 8.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 2",
+    "descricao": "",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7.8,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 1",
+    "descricao": "",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "CP 2 - 4 Ps + Canvas",
+    "descricao": "",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "Challenge Sprints 3",
+    "descricao": "",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Gustavo Dias",
+    "titulo": "CP 2 - Diagrama de Sequência e de Atividades",
+    "descricao": "",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-1",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "nota": 8.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-2",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "nota": 8,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-3",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "nota": 0,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-4",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "nota": 9,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-5",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "nota": 9.3,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint1-Entrega",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "nota": 6,
+    "feedback": "Faltaram as intenções, entidades e seus exemplos. Além das explicações de uso das mesmas.",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint2-Entrega",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "nota": 8.8,
+    "feedback": "Não foi apresentado no vídeo a aplicação no Telegram!",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint3-Entrega",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "nota": 10,
+    "feedback": "O grupo apresentou uma base de dados sólida e uma explicação clara e bem estruturada, cumprindo todos os critérios da atividade com excelência",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Global Solution",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "nota": 10,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-1",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "nota": 7,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-2",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "nota": 9,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-3",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "nota": 7,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-4",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "nota": 5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-5",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "nota": 9.1,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint1-Entrega",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "nota": 7,
+    "feedback": "Como o cliente pode ter vários veículos, a entidade veículo é que deveria ter relação com agenda.Os relacionamentos um para um nesse modelo não estão corretos, deveriam ser um para muitos.Usar as mesmas entidades de telefone e email para cliente e mecânico não está correto, deve utilizar a técnica especialização/generalização ou criar entidades separadas para cada cliente e mecânico.Faz sentido para o negócio o mecânico ter vários endereços? Como isso seria resolvido na agenda?",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint2-Entrega",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "nota": 10,
+    "feedback": "Um PROBLEMA pode ter várias AGENDAS, e não o contrário, correto? Por favor, revise esse relacionamento para garantir que está modelado corretamente",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint3-Entrega",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "nota": 9.5,
+    "feedback": "Erro ao executar cria.",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Global Solution",
+    "materia": "Building Relational Database",
+    "tipo": "Global Solution",
+    "nota": 7.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-1",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "nota": 9.8,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-2",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "nota": 10,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-3",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "nota": 9.8,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-4",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "nota": 5.5,
+    "feedback": "Não faz melhor de 3.Apresentação ok.Entrega com atraso de 9h (desconto de 10%)",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-5",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "nota": 5.5,
+    "feedback": "(3,0) Programa Python + 4 algoritmos - código bem organizado, porém, não faz todas as simulações solicitadas. Tamanho de lista fixo no código - 50000.(2,5) Relatório + gráficos - simulação parcialmente desenvolvida. Foram encontrados apenas 2 gráficos (com números pequenos de amostragem) - atendeparcialmente ao que foi solicitado. Poderia ter trabalhado melhor no relatório.",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint1-Entrega",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "nota": 7.5,
+    "feedback": "Ok para a Sprint 1",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint2-Entrega",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "nota": 6.5,
+    "feedback": "Implementação simples para a Sprint 2. Era esperado uma maior manipulação de dados com lista. Funções com parâmetros e retornando valor. Poderiam ter explorado mais o pensamento computacional e aplicado diferentes regras de negócio na aplicação.",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint3-Entrega",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "nota": 7.5,
+    "feedback": "",
+    "descricao": "tudo ok"
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Global Solution",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Global Solution",
+    "nota": 9.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-1",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "nota": 10,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-2",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "nota": 8,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-3",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "nota": 0,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-4",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "nota": 10,
+    "feedback": "Parabéns!",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-5",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "nota": 9.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint1-Entrega",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "nota": 9.5,
+    "feedback": "Cadastro é um ação e não uma classe válida a ser criada.Uso equivocado do tipo int para atributos temporais (data, hora, tempoEstimado, etc).",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint2-Entrega",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "nota": 10,
+    "feedback": "Parabéns!",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint3-Entrega",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "nota": 7.8,
+    "feedback": "Documentação, faltou Print do modelo de banco de dados. (-2 ptos)Entregaram projeto sem driver de conexão! Ao executar (depois que resolvi problema do driver), dá erro! (ORA-00942: a tabela ou view não existe) (-20 ptos)",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Global Solution",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Global Solution",
+    "nota": 10,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-1",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "nota": 7.5,
+    "feedback": "feedback cp1: semântica, estrutural",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-2",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "nota": 10,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-3",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "nota": 7.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-4",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "nota": 0,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-5",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "nota": 8,
+    "feedback": "Estrutura e organização do projeto (20 pontos):=10.Implementação de rotas e rotas dinâmicas (30 pontos):=30.Página de erro personalizada (10 pontos):=10.Endpoints do projeto (30 pontos):=20.Colaboração e versionamento (10 pontos):=10.Total=80",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint1-Entrega",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "nota": 4,
+    "feedback": "Olá pessoal, eu não entendi. Vocês criaram um Form de Cadastro e outro de login como parte da solução para o challenger? Porque se foi isso, creio que vocês estão um pouco atrasados.Meu conselho é que para a segunda entrega atenham se as premissas da documentação. Em caso de problemas e dúvidas me procurem.",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint2-Entrega",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "nota": 7.5,
+    "feedback": "Obs: É necessário criar um conteúdo que deixe mais claro a intenção do projeto voltado ao challenger, e quando me refiro clareza, digo em relação as ações, não apenas texto, nem mesmo imagens vocês estão usando. Vamos colocar mais empenho neste trabalho pessoal.",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint3-Entrega",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "nota": 7,
+    "feedback": "Obs: Tags img com abertura e fechamento -10. O componente principal está sub utilizado ou sem uso e portanto não deveria existir.-10. Existe arquivos desnecessários sem utilidades que comprometem a perfomance do projeto.-5",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Global Solution",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Global Solution",
+    "nota": 7.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-1",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "nota": 9.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-2",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "nota": 9.5,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-3",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "nota": 0,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-4",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "nota": 8,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Checkpoints-5",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "nota": 8,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint1-Entrega",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "nota": 6.5,
+    "feedback": "Pessoal, o link do Trello de vcs ta privado. Eu falei MUITAS VEZES EM AULA, O LINK TEM QUE SER ABERTO. Outra coisa pessoal, era um short pitch, precisava ter recurso visual, é exatamente o mesmo formato de pitch que vcs fizeram no cp..... só que em vez de 5 min são 3, só essa a diferença.",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint2-Entrega",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "nota": 10,
+    "feedback": "Olá pessoal td bem? Matriz CSD legal! Canvas bom. Mapa de empatia bom. Descritivo e identidade visual EXCELENTE. Backlog muitooo bom!Pitch TOP. Diagrama bom, é 10/10!:) Bjs",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Sprint3-Entrega",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "nota": 10,
+    "feedback": "Olá pessoal!O Backlog está bom. Os diagramas também. Protótipo ta bem legal.10/10",
+    "descricao": ""
+  },
+  {
+    "autor": "Júlia Angelozi",
+    "titulo": "Global Solution",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Global Solution",
+    "nota": 10,
+    "feedback": "",
+    "descricao": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "EDA - Análise Exploratória de Dados",
+    "descricao": "EDA, ou Análise Exploratória de Dados, é o processo inicial de análise de dados destinado a resumir suas principais características frequentemente usando métodos visuais.",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 90,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "EDA E MACHINE LEARNING",
+    "descricao": "Entrega sobre analise de dados e machine learning com esses dados",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 93,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Challenge Sprints 3",
+    "descricao": "Construção de datasets",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 100,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Challenge Sprints 2",
+    "descricao": "Comunicação no watson no node-red",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 100,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Challenge Sprints 1",
+    "descricao": "Watson IBM",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 90,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Checkpoint AI - Chatbot IBM",
+    "descricao": "Watson IBM",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 100,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Entrega_Checkpoint2",
+    "descricao": "CHECKPOINT 2",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 100,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Global Solution IA",
+    "descricao": "Global solution de ia",
+    "materia": "Artificial Intelligence and Chatbot",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 99,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 2",
+    "descricao": "Sprint 2",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "3º CHECKPOINT - PRIMEIRO SEMESTRE - DATABASE",
+    "descricao": "CHECKPOINT 3",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 8,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "2º CHECKPOINT - PRIMEIRO SEMESTRE - DATABASE",
+    "descricao": "CHECKPOINT 2",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 8.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 1",
+    "descricao": "Sprint 1",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 6,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "1º CHECKPOINT - PRIMEIRO SEMESTRE - DATABASE",
+    "descricao": "CHECKPOINT 1 primeiro semestre",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.6,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "2º CHECKPOINT DDL E DML",
+    "descricao": "",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 3",
+    "descricao": "Sprint 3",
+    "materia": "Building Relational Database",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 8,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "1º CHECKPOINT DDL",
+    "descricao": "CHECKPOINT 1 do segundo semestre",
+    "materia": "Building Relational Database",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 8,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 2",
+    "descricao": "Sprint 2",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": "Poderia ter desenvolvido mais o Relatório"
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 3",
+    "descricao": "CHECKPOINT 3",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.8,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 2",
+    "descricao": "CHECKPOINT 2",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 8.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 1",
+    "descricao": "Sprint 1",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 4.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 1",
+    "descricao": "Checkpoint 1",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 5",
+    "descricao": "Checkpoint 5",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 3",
+    "descricao": "",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 8.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 4",
+    "descricao": "Checkpoint 4",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 2",
+    "descricao": "Sprint 2",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 3",
+    "descricao": "Checkpoint 3",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.2,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 1",
+    "descricao": "Entrega sprint 1",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 2",
+    "descricao": "CHECKPOINT 2",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 1",
+    "descricao": "Checkpoint 1",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 5",
+    "descricao": "Chekpoint 5",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 3",
+    "descricao": "Entrega sprint 3",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 7.8,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHECKPOINT 4",
+    "descricao": "Entrega cp4",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP3 - LOGIN LOGOUT",
+    "descricao": "Entrega cp3",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 2",
+    "descricao": "Sprint 2",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP2 - IMPLEMENTAÇÃO DE PROTÓTIPO",
+    "descricao": "Site feito em conjunto com toda a sala",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 1",
+    "descricao": "Sprint 1",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 4.5,
+    "feedback": "Faltou a pasta do site."
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP1 - CURSOS FIAP",
+    "descricao": "Site sobre os cursos na fiap",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP2 - WORLDS IN COLLISION",
+    "descricao": "Site sobre o livro worlds in a Collision",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 3",
+    "descricao": "Sprint 3",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 8,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP1 - SPA / LIVRARIA",
+    "descricao": "Site simples mostrando livros de uma livraria",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 2",
+    "descricao": "Sprint 2",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 7.8,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP 3 - DIAGRAMA DE CASO DE USO",
+    "descricao": "diagrama de caso de uso de uso",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 6,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 1",
+    "descricao": "Entrega challenge sprint 1",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP 2 - 4 PS + CANVAS",
+    "descricao": "Analise dos 4ps + canvas da netflix",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7,
+    "feedback": "Faltou aprofundar mais no P de preço"
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "1º CP - PITCH",
+    "descricao": "Aprensentação de uma solução inovadora",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CHALLENGE SPRINTS 3",
+    "descricao": "Entrega sprint 3",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Challenge",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP 2 - DIAGRAMA DE SEQUÊNCIA E DE ATIVIDADES",
+    "descricao": "Diagrama de sequencia da uber e do ifood",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 10,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "CP 1 - AS 10 HEURÍSTICAS DE NIELSEN",
+    "descricao": "Analise das Heurísticas do Ifood",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Checkpoints",
+    "semestre": 2,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Global Solution",
+    "descricao": "Entregue a global Solution de Building Relational Database",
+    "materia": "Building Relational Database",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Global Solution",
+    "descricao": "Entregue a global Solution de Computational Thinking Using Python",
+    "materia": "Computational Thinking Using Python",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 8.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Global Solution",
+    "descricao": "Entregue a global Solution de Domain Driven Design Using Java",
+    "materia": "Domain Driven Design Using Java",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 9.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Global Solution",
+    "descricao": "Entregue a global Solution de Front-End Design Engineering",
+    "materia": "Front-End Design Engineering",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 7.5,
+    "feedback": ""
+  },
+  {
+    "autor": "Felipe Ribeiro",
+    "titulo": "Global Solution",
+    "descricao": "Entregue a global Solution de Software engineering and Business Model",
+    "materia": "Software Engineering and Business Model",
+    "tipo": "Global Solution",
+    "semestre": 1,
+    "nota": 9,
+    "feedback": ""
+  }
+]

@@ -1,0 +1,459 @@
+[
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 3",
+        "descricao": "Questões de alternativas",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 0,
+        "feedback": "Não foi feito"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 2",
+        "descricao": "Impletação a classe Aluno como o modelo UML",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 9,
+        "feedback": "Feedback feito no dia"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 1",
+        "descricao": "Fazer a classe DespesaFamiliar como indicado pelo modelo UML",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 9,
+        "feedback": "Feedback dado no dia"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 5",
+        "descricao": "Fazer o crud com o banco de dados das classes de super heroi",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 9.5,
+        "feedback": "Questões respondidas erradas"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 4",
+        "descricao": "Fazer o crud com as classes do dragon ball",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 10,
+        "feedback": "Não teve"
+    },
+
+
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 2",
+        "descricao": "Fazer a Documentação atualizada | Modelagem das classes do projeto | Projeto Java ",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 9.3,
+        "feedback": "No Diagrama de Classes, atributos do tipo datas e horas usar tipo coerentes (não String ou int). Rever as classes para melhor adequar ao escopo apresentado: PassoReparo e ServicoExtra. | (-2 ptos) Projeto entregue com erro (na classe OrcamentoTotal). (-5 ptos) |Na classe de teste, objeto da classe Scanner não é fechado."
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 1",
+        "descricao": "Fazer a documentação | Modelagem das classes do projeto",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 8.5,
+        "feedback": "Diagrama de classes deveria estar junto à documentação (dentro do mesmo PDF). Mesmos as classes sem métodos devem possuir o espaço (retângulo) representado no modelo UML. Cadastro é um ação e não uma classe válida a ser criada. Alguns atributos não seguem a convenção de nomenclatura. Alguns atributos estão sem informação de tipo. Uso do tipo string (String é uma classe, tem primeira letra maiúscula) em alguns atributos. Oficina e InformacoesOficina deveriam ser uma classe única (não há justificativa para esta separação)."
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 3",
+        "descricao": "Fazer a Documento PDF | e o projeto java com crud",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Challenge",
+        "semestre": 2,
+        "nota": 9.5,
+        "feedback": "Documentação, sem Print dos protótipos do Frontend (não é link). Sem Print do modelo do banco (não é link). (-5 ptos)"
+    },
+
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Global Solution",
+        "descricao": "Criar um menu com as soluções que foram encontradas",
+        "materia": "DOMAIN DRIVEN DESIGN USING JAVA",
+        "tipo": "Global Solution",
+        "semestre": 1,
+        "nota": 73,
+        "feedback": "---------------------"
+    },
+
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 2",
+        "descricao": "Fazer o CONTEXTO DO PROBLEMA | CONTEXTO DA SOLUÇÃO | Diagrama de Caso de Uso | Pitch",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 9.7,
+        "feedback": "Diagrama bem legal algumas questões mas no geral muito bom"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP 3 - Diagrama de Caso de Uso",
+        "descricao": "Fazer um diagrama de caso de uso do ifood",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 0,
+        "feedback": "não foi feito"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 1",
+        "descricao": "Fazer a DESCRIÇÃO DA SOLUÇÃO | PITCH | PRODUCT BACKLOG | FORMATO DE ENTREGA",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 9.3,
+        "feedback": "Agora vai um adendo BEM importante pro pitch, era um short pitch, EXATAMENTE o mesmo tipo de pitch que vcs entregaram de checkpoint, com a única diferença de ser 3 min em vez de 5, ver um pitch olhando só um logo é péssimo, precisa ter algum recurso visual, melhorem esse ponto pra sprint 2"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP 2 - 4 Ps + Canvas",
+        "descricao": "Falar sobre os 4Ps da netflix",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 9.5,
+        "feedback": "Dado em aula"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "1º CP - Pitch",
+        "descricao": "Fazer um pitch da empresa que você solucionou o problema do carros",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 9.5,
+        "feedback": "Foi dado no dia"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 3",
+        "descricao": "Fazer o PRODUCT BACKLOG ATUALIZADO, DIAGRAMA DE SEQUÊNCIA e o PROTÓTIPO DE MÉDIA FIDELIDADE ",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Challenge",
+        "semestre": 2,
+        "nota": 10,
+        "feedback": "Parabéns 10/10"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP 2 - Diagrama de Sequência e de Atividades",
+        "descricao": "fazer um diagrama de sequência e outra de atividades do uber ou ifood",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 7,
+        "feedback": "não tem"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP 1 - As 10 Heurísticas de Nielsen",
+        "descricao": "Análisar o aplicativo do ifood e ver quais são as heurísticas que tem",
+        "materia": "Software Engineering and Business Model",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 9,
+        "feedback": "não tem"
+    },
+
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP3 - Login Logout",
+        "descricao": "Crie um sistema de login e logout",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 0,
+        "feedback": "Não foi feito"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 2",
+        "descricao": "implementar o que foi prototipado na primeira sprint do figma",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 5.5,
+        "feedback": "É necessário criar um conteúdo que deixe mais claro a intenção do projeto voltado ao challenger, e quando me refiro clareza, digo em relação as ações, não apenas texto."
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP2 - Implementação de Protótipo",
+        "descricao": "Implementação de Protótipo com HTML/CSS",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 10,
+        "feedback": "-------------------"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 1",
+        "descricao": "deve desenvolver uma aplicação front-end web no challenge",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 6,
+        "feedback": "Total considerado = (figma=20/versionamento=15/estilos=20/estrutura=5)60"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP1 - Cursos FIAP",
+        "descricao": "CheckPoint presencial |Este projeto deve ser realizado individualmente |Deve ser apresentado em sala na data prevista no TEAMs. |Crie um projeto HTML seguindo as solicitações propostas e utilizando o Git/Github.",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 9,
+        "feedback": "Fedbeek CP1 : nomenclatura nota = 90"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP2 - Worlds in Collision",
+        "descricao": "Neste projeto, vocês utilizarão o grupo do challenge para construir uma aplicação web utilizando oframework Next.js com TypeScript. O tema do projeto será o livro Worlds in Collision de Immanuel Velikovsky. Vocês deverão criar 4 páginas, sendo que três delas devem apresentar ilustrações e informações sobre as principais ideias do autor e a quarta página deve conter um cálculo proposto por Velikovsky, também ilustrado.",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 8.5,
+        "feedback": "--------------------"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 3",
+        "descricao": "desenvolver um projeto em vite-react + Typescript",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Challenge",
+        "semestre": 2,
+        "nota": 8,
+        "feedback": "Modularidade e Reutilização (20,0 pontos) 10 |Padronização e Consistência (20,0 pontos) 10"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "CP1 - SPA / Livraria",
+        "descricao": "Seu objetivo é criar um aplicativo de página única (SPA) do React",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 4.5,
+        "feedback": "-------------------------"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Global Solution",
+        "descricao": "Criar um site até o que foi ensinado",
+        "materia": "Front-End Design Engineering",
+        "tipo": "Global Solution",
+        "semestre": 1,
+        "nota": 60,
+        "feedback": "Uso excessivo de <br>. Nomenclatura |Invocando JS no BODY. |O Form de cadastro está incorreto, invoca duas funções ao mesmo tempo, porém em eventos diferentes. |Quando é realizado o cadastro uma exceção é lançada."
+    },
+
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 2",
+        "descricao": "",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 4,
+        "feedback": "funções com pouca pesagem de parâmetro e sem retornos. Poderiam ter explorado melhor os conceitos vistos em aula."
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 3",
+        "descricao": "Sistema de monitoramente de temperaturas",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 0,
+        "feedback": "Não foi feito"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 2",
+        "descricao": "Exericicos para treinar condições, lopp",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 7,
+        "feedback": "---------------------"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 1",
+        "descricao": "fazer a documentação do código e o código fonte com u mnenu com mais de três funcionalidades",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 9.5,
+        "feedback": "Documentação (Total 35 pontos) Arquivo PDF com a documentação da solução, contendo"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 1",
+        "descricao": "Exericicos para treinar a lógica de programação",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 9,
+        "feedback": "--------------"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 5",
+        "descricao": "Para este checkpoint, preparem uma única folha - cheat sheet - (A4) com anotações que considerarem importantes sobre a matéria. Esta folha servirá como material de consulta durante a realização do checkpoint, nenhum outro material poderá ser consultado. Neste CP trabalharemos a manipulação de dados em Listas através de Funções.",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 6.5,
+        "feedback": "3.5 no código e 3.0 na documentação"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 3",
+        "descricao": "A partir dos dados coletados nas outras disciplinas, a equipe deverá desenvolver um programa em Python, o qual deverá contemplar os seguintes itens:",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Challenge",
+        "semestre": 2,
+        "nota": 8.5,
+        "feedback": "Parabéns pela entrega e explicação do código. Ficou muito bom...-"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Checkpoint 4",
+        "descricao": "Criar um jogo da velha",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 0,
+        "feedback": "Não foi feito"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Global Solution",
+        "descricao": "--------------------",
+        "materia": "Computational Thinking Using Python",
+        "tipo": "Global Solution",
+        "semestre": 1,
+        "nota": 95,
+        "feedback": "podia explorar mas o vídeo"
+    },
+
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 2",
+        "descricao": "Baseado na sua 1ª Entrega (ou Sprint 1) e nos feedback recebidos, continue a implementação do seu Projeto de Banco de Dados Relacional, levando em consideração",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 10,
+        "feedback": "Estão usando atributos CHAR onde deveria ser VARCHAR. O relacionamento entre MECÂNICO e AVALIAÇÃO não precisa ser identificado. Por favor, revisem esses pontos para a próxima entrega."
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "3º Checkpoint - Primeiro Semestre - Database",
+        "descricao": "Prova de alternativa",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 7,
+        "feedback": "acertou 7/10"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "2º Checkpoint - Primeiro Semestre - Database",
+        "descricao": "Criada do zero pelo médico cardiologista Vital Lutz, a rede de hospitais Somos Todos Um!, carinhosamente chamada de RHSTU teve um crescimento exponencial nos últimos anos com inúmeras aquisições de diversas unidades de saúde e atualmente se encontra nas principais capitais do Brasil.",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 8,
+        "feedback": "não teve"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 1",
+        "descricao": "Após a análise das classe desenvolvidas na disciplina Domain-Driven Design (DDD), é crucial que a  disciplina Building Relational Database atenda às necessidades da maioria dessas classes de negócio (ou  domínio). Além disso, é fundamental considerar as funcionalidades criadas na disciplina Computational  Thinking Using Python para garantir uma integração harmoniosa entre os sistemas.",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Challenge",
+        "semestre": 1,
+        "nota": 6,
+        "feedback": "Cadastro não é um bom nome para entidade, opte por nomes de entidades mais significativas. Temos quatro entidades: CADASTRO, USUARIO_CASDASTRO, USUARIO e LOGIN que a princípio tratam do cliente, com relacionamento muitos para muitos entre algumas. Não ficou adequado, necessário revisar a necessidade de todas essas entidades. O endereço do usuário não precisa ter relacionamento com a localização da oficina para ter função de encontrar a oficina mais próxima, isso será resolvido na consulta feita pela aplicação, não pelo modelo. Senti falta de acordo com o descritivo de entidades relacionadas a “incidente/interação” do negócio que estão resolvendo. Lembrem que na próxima entrega será cobrada padrão de nomenclatura e tipos de dados corretos."
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "1º Checkpoint - Primeiro Semestre - Database",
+        "descricao": "A Rede de Hospitais Somos Todos Um! necessita ter um controle dos pacientes que se dirigem ao pronto socorro para atendimento. Você está sendo convidado para fazer a versão 1.0 do modelo de dados que irátratar do assunto “Atendimento feito no Pronto Socorro",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Checkpoints",
+        "semestre": 1,
+        "nota": 6.6,
+        "feedback": "não tem"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "2º Checkpoint DDL e DML",
+        "descricao": "Seu desafio será popular o projeto RHSTU na versão disponibilizada nesse checkpoint",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 8.6,
+        "feedback": "não tem"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Challenge Sprints 3",
+        "descricao": "Modelo Físico de Dados / Modelo Relacional",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Challenge",
+        "semestre": 2,
+        "nota": 9.5,
+        "feedback": "DDL 45 Nomeclatura 30 Relacional 20 Erro ao executar cria."
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "1º Checkpoint DDL",
+        "descricao": "A partir do Modelo Relacional abaixo, realizar a leitura do modelo e criar asinstruções SQL contendo comandos DDL MANUAL a partir da imagem abaixo. A ideia será substituir a estrutura do modelo atual por essa nova estrutura.",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Checkpoints",
+        "semestre": 2,
+        "nota": 8.3,
+        "feedback": "não tem"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Global Solution",
+        "descricao": "Fazer o banco de dados do que vocÊ aprenceu até agora",
+        "materia": "BUILDING RELATIONAL DATABASE",
+        "tipo": "Global Solution",
+        "semestre": 1,
+        "nota": 65,
+        "feedback": "não tem"
+    },
+    {
+        "autor": "Sofia Petruk",
+        "titulo": "Global Solution",
+        "descricao": "Fazer o chatbot no ibm completo",
+        "materia": "ARTIFICIAL INTELLIGENCE & CHATBOT",
+        "tipo": "Global Solution",
+        "semestre": 1,
+        "nota": 100,
+        "feedback": "não foi achado"
+    }
+]
